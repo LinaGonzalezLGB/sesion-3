@@ -1,0 +1,21 @@
+ul{
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+border: 1px solid green;
+width: 130px;
+}
+a{
+	font-family: 'Shadows Into Light', cursive;
+	text-decoration: none;
+	font-size: 16px;
+	display: block;
+	padding: 6px;
+	background-color: yellowgreen;
+}
+a:hover
+{
+	color: #FFF;
+	background-color: #666;
+	border-right-width: 5px;
+	border.border-right-color: #003; 
